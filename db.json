@@ -1,0 +1,65 @@
+{
+  "cars": [
+    {
+      "company": "Toyota",
+      "model": "Camry",
+      "price": 25000,
+      "id": 1
+    },
+    {
+      "company": "Honda",
+      "model": "Civic",
+      "price": 22000,
+      "id": 2
+    },
+    {
+      "company": "Ford",
+      "model": "Fusion",
+      "price": 27000,
+      "id": 3
+    },
+    {
+      "company": "Chevrolet",
+      "model": "Cruze",
+      "price": 23000,
+      "id": 4
+    },
+    {
+      "company": "BMW",
+      "model": "X5",
+      "price": 60000,
+      "id": 5
+    },
+    {
+      "company": "Mercedes-Benz",
+      "model": "C-Class",
+      "price": 45000,
+      "id": 6
+    },
+    {
+      "company": "Audi",
+      "model": "A3",
+      "price": 35000,
+      "id": 7
+    },
+    {
+      "company": "Lexus",
+      "model": "RX",
+      "price": 52000,
+      "id": 8
+    },
+    {
+      "company": "Nissan",
+      "model": "Altima",
+      "price": 24000,
+      "id": 9
+    },
+    {
+      "company": "Hyundai",
+      "model": "Elantra",
+      "price": 20000,
+      "id": 10
+    }
+  ]
+}
+  
